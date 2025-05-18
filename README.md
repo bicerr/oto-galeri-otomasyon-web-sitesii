@@ -2,7 +2,7 @@
 
 Bema Oto, otomotiv sektörüne yönelik hibrit bir uygulama sistemidir.
 Proje hem PHP ile geliştirilmiş web tabanlı bir arayüzden hem de C# ile geliştirilmiş mobil uygulamasından oluşmaktadır. 
-Kullanıcılar araç satın alma, kiralama ve araç yıkama randevusu oluşturma işlemlerini hem web üzerinden hem de masaüstü uygulamasıyla yapabilirler.
+Kullanıcılar araç satın alma, kiralama ve araç yıkama randevusu oluşturma işlemlerini hem web üzerinden hem de mobil uygulamasıyla yapabilirler.
 
 ---
 
